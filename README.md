@@ -6,6 +6,7 @@
 - MinGW (which including Msys)
 - Perl, such as ActivePerl to build Openssl
 - ThirdParty libraries source: PCRE, zlib and Openssl
+- Version: nginx 1.13.9; PCRE 8.40; Openssl 1.1.0g; zlib 1.2.11
 
 You can download the library source code tar.gz and extract them to the objs/lib folder. This repository includes them already.
 
